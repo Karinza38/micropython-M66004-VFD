@@ -1,4 +1,4 @@
-# Reusing a Sony HCD-MJ1 Vacuum Fluorescent Display with Raspberry-Pi Pico and MicroPython
+ # Reusing a Sony HCD-MJ1 Vacuum Fluorescent Display with Raspberry-Pi Pico and MicroPython
 
 ![VFD-sony_hcd_mj1-intro](docs/_static/VFD-sony_hcd_mj1-intro.jpg)
 
